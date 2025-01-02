@@ -2,12 +2,12 @@
 ## This is Course Project of DS203.
 ## About the audio files (songs)
 The following groups of files contribute to the set of 115
-• Files containing rendition of the Indian National Anthem
-• Files containing Marathi ‘Bhav Geet’ – sung by various artistes, male and female
-• Files containing Marathi Lavni songs – sung by various artistes, predominantly female
-• Hindi film songs sung by Asha Bhosale
-• Hindi film songs sung by Kishor Kumar
-• English songs by Michael Jackson
+• Files containing rendition of the Indian National Anthem<br>
+• Files containing Marathi ‘Bhav Geet’ – sung by various artistes, male and female<br>
+• Files containing Marathi Lavni songs – sung by various artistes, predominantly female<br>
+• Hindi film songs sung by Asha Bhosale<br>
+• Hindi film songs sung by Kishor Kumar<br>
+• English songs by Michael Jackson<br>
 
 ## Problems to be solved
 ### 1. Analyze MFCC files to organize the 115 files into groups broadly corresponding to those listed above
